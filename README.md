@@ -16,6 +16,29 @@ An in-production enterprise platform that combines **HR and workforce management
 | **Integrations** | Microsoft 365 / Outlook (Graph), Brevo, Interakt WhatsApp, eSSL biometric attendance |
 | **Testing** | Playwright |
 
+## Screenshots
+
+> Screens use sample data.
+
+### Workspace and HR
+![Home workspace](01-home-workspace.png)
+![Dashboard](02-dashboard.png)
+![Login and authentication](03-login-auth.png)
+![Employee master](04-employee-master.png)
+![My Work](05-mywork.png)
+
+### CRM
+![CRM Enquiry](06-crm-enquiry.png)
+![CRM Sales Order](07-crm-salesorder.png)
+![CRM Import wizard](08-crm-import-wizard.png)
+![CRM Search layout](09-crm-search-layout.png)
+
+### Responsive (mobile)
+<p>
+  <img src="10-mywork-mobile.png" alt="My Work on mobile" width="32%">
+  <img src="11-mytodos-mobile.png" alt="My Todos on mobile" width="32%">
+</p>
+
 ## What I built
 
 ### AI email triage and communication agents
